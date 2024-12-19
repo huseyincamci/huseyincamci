@@ -16,7 +16,7 @@ I’m a passionate **Software Test Automation Specialist** dedicated to ensuring
 💡 **Tech Stack & Tools I Use**  
 - **Languages**: `Java`, `C#`
 - **Automation Tools**: `Selenium`, `Appium`, `TestNG`, `Cucumber`  
-- **Performance & API Testing**: `JMeter`, `Karate Framework`  
+- **Performance & API Testing**: `JMeter`, `Karate Framework` , `Postman` 
 - **CI/CD**: `Jenkins`, `GitHub Actions`
 - **Version Control**: `Git`, `GitHub`  
 
